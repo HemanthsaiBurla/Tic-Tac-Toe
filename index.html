@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Ultimate Tic-Tac-Toe</h1>
+
+    <div class="mode-selection">
+        <button id="friend-mode">Play with Friend</button>
+        <button id="computer-mode">Play with Computer</button>
+    </div>
+
+    <div class="game-container hidden" id="game-container">
+        <h2 id="current-mode"></h2>
+        <div class="board" id="board">
+            <div class="cell" data-index="0"></div>
+            <div class="cell" data-index="1"></div>
+            <div class="cell" data-index="2"></div>
+            <div class="cell" data-index="3"></div>
+            <div class="cell" data-index="4"></div>
+            <div class="cell" data-index="5"></div>
+            <div class="cell" data-index="6"></div>
+            <div class="cell" data-index="7"></div>
+            <div class="cell" data-index="8"></div>
+        </div>
+
+        <p id="winner-message"></p>
+
+        <button id="reset">Restart Game</button>
+        <button id="view-history">View History</button>
+    </div>
+
+    <div id="history-modal" class="hidden">
+        <h2>Game History</h2>
+        <ul id="history-list"></ul>
+        <button id="close-history">Close</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
