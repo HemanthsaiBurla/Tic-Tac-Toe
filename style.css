@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     text-align: center;
-    background-image: url('https://github.com/HemanthsaiBurla/Tic-Tac-Toe/blob/main/BG_TicTacToe.jpg');
+    background-image: url('https://raw.githubusercontent.com/HemanthsaiBurla/Tic-Tac-Toe/refs/heads/main/BG_TicTacToe.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
