@@ -37,13 +37,13 @@ HTMl, CSS and JS
 
 # Interfaces of TicTacToe
 ## TicTacToe Home Page
-![image alt]()
+![image alt](https://github.com/HemanthsaiBurla/Tic-Tac-Toe/blob/main/Interface_Images/Home.png)
 
 ## Play with friend
-![image alt]()
+![image alt](https://github.com/HemanthsaiBurla/Tic-Tac-Toe/blob/main/Interface_Images/Play_with_friend.png)
 
 ## History of winning 🥇
-![image alt]()
+![image alt](https://github.com/HemanthsaiBurla/Tic-Tac-Toe/blob/main/Interface_Images/Winning_History.png)
 
 # License
  
